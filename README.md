@@ -14,7 +14,7 @@ Atualmente estou construindo projetos práticos para simular cenários reais de 
 
 ## 🚀 Projetos que vem por aí
 
-* 🔎 Log Analyzer (em breve)
+* 🔎 Log Analyzer (✅)
 * 🧪 Vulnerable Lab (em breve)
 * 🕵️ Recon Tool (em breve)
 
