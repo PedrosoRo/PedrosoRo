@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Fala, eu sou o Rodrigo
 
-<!--
-**PedrosoRo/PedrosoRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta de cibersegurança focado em entender como sistemas falham e talvez como protegê-los um pouco melhor.
 
-Here are some ideas to get you started:
+Tenho interesse em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔐 Segurança ofensiva (pentest básico, exploração controlada)
+* 🛡️ Segurança defensiva (logs, análise, resposta a incidentes)
+* ⚙️ Automação com Python para segurança
+
+Atualmente estou construindo projetos práticos para simular cenários reais de segurança e desenvolver minha mentalidade analítica.
+
+---
+
+## 🚀 Projetos que vem por aí
+
+* 🔎 Log Analyzer (em breve)
+* 🧪 Vulnerable Lab (em breve)
+* 🕵️ Recon Tool (em breve)
+
+---
+
+## 🧰 Tecnologias que estou usando
+
+* Python
+* Linux
+* Git & GitHub
+* Bash
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (coloca aqui)
+* Email: (pedroso.p13@gmail.com)
+
+---
+
+*"Segurança não é sobre controle total — é sobre reduzir o caos."*
