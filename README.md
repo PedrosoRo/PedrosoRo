@@ -31,7 +31,7 @@ Atualmente estou construindo projetos práticos para simular cenários reais de 
 
 ## 📫 Contato
 
-* LinkedIn: (coloca aqui)
+* LinkedIn: (www.linkedin.com/in/rodrigo-pedroso-pinter-2483483a0)
 * Email: (pedroso.p13@gmail.com)
 
 ---
