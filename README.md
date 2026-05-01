@@ -15,9 +15,9 @@ Atualmente estou construindo projetos práticos para simular cenários reais de 
 ## 🚀 Projetos que vem por aí
 
 * 🔎 Log Analyzer (✅)
-* 🧪 Vulnerable Lab (em breve)
-* 🕵️ Recon Tool (em breve)
-
+* 🧪 Port-sacanner (✅)
+* 🕵️ Recon Tool (✅)
+* em breve mais projetos
 ---
 
 ## 🧰 Tecnologias que estou usando
