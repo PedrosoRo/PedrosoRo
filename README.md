@@ -15,7 +15,7 @@ Atualmente estou construindo projetos práticos para simular cenários reais de 
 ## 🚀 Projetos que vem por aí
 
 * 🔎 Log Analyzer (✅)
-* 🧪 Port-sacanner (✅)
+* 🧪 Port-scanner (✅)
 * 🕵️ Recon Tool (✅)
 * em breve mais projetos
 ---
